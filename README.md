@@ -7,6 +7,7 @@
 <img width="300" height="300" src="./png/고양이.jpg"></img>
 <img width="" height="" src="./png/캡스톤디자인2주차과제.png"></img>
 <img width="" height="" src="./png/캡스톤디자인2주차복습과제.png"></img>
+2주차 과제는 PNG 폴더에 저장하였습니다.
 
 ## 3주차 과제
 <img width="" height="" src="./png/캡스톤디자인3주차과제.png"></img>
