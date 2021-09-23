@@ -9,3 +9,6 @@
 <img width="" height="" src="./png/캡스톤디자인2주차복습과제.png"></img>
 
 ## 3주차 과제
+<img width="" height="" src="./png/캡스톤디자인3주차과제.png"></img>
+<img width="" height="" src="./png/캡스톤디자인3주차과제2.png"></img>
+<img width="" height="" src="./png/캡스톤디자인3주차과제3.png"></img>
