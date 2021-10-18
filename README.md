@@ -27,3 +27,6 @@
 <img width="" height="" src="./png/캡스톤디자인6주차과제1.png"></img>
 <img width="" height="" src="./png/캡스톤디자인6주차과제2.png"></img>
 <img width="" height="1000" src="./png/캡스톤디자인6주차과제3.png"></img>
+
+## 7주차 과제
+<img width="" height="" src="./png/캡스톤디자인7주차과제1.png"></img>
