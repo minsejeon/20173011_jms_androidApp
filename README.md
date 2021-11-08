@@ -32,5 +32,5 @@ https://github.com/minsejeon/20173011_jms_androidApp/blob/main/%EC%BA%A1%EC%8A%A
 <img width="" height="" src="./png/캡스톤디자인 7주차과제1.png"></img>
 
 ## 10주차 과제
-<img width="" height="" src="./png/캡스톤디자인 10주차과제1.png"></img>
-<img width="" height="" src="./png/캡스톤디자인 10주차과제2.png"></img>
+<img width="" height="" src="./png/캡스톤디자인10주차과제1.png"></img>
+<img width="" height="" src="./png/캡스톤디자인10주차과제2.png"></img>
